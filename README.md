@@ -63,8 +63,8 @@ Successfully completed as part of **Infosys Springboard Internship Program**
 🎯 Focus: Data Analytics, Visualization & Insight Storytelling
 
 🎓 Certificate:
-> 
-<img width="1679" height="1176" alt="Screenshot 2025-11-29 193338" src="https://github.com/user-attachments/assets/505cb06c-b87c-4c70-9bb9-7b744e6223a4" /
+> <img width="1679" height="1190" alt="image" src="https://github.com/user-attachments/assets/a347b901-4bc3-4236-9c4d-3f0c3f4f7c2f" />
+
 
 ---
 
@@ -78,7 +78,7 @@ Special thanks to **Infosys Springboard** for guidance, support & industry expos
 
 **Pranav Raskar**  
 📍 Data Analytics & BI Enthusiast  
-🔗 LinkedIn: (https://www.linkedin.com/in/pranav-raskar?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkrHIivq6S6a13CgDiL1tow%3D%3D)*
+🔗 LinkedIn: https://www.linkedin.com/in/pranav-raskar
 
 ---
 
